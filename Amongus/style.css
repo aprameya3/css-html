@@ -1,0 +1,66 @@
+html{
+    background-color: grey;
+}
+.Body{
+    background-color: red;
+    width:300px;
+    height:450px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 35%;
+    border-bottom-left-radius:40% ;
+    border-bottom-right-radius: 20%;
+    border-top:20px  solid black;
+    border-left:20px  solid black;
+    border-right:20px  solid black;
+    border-bottom-left-radius:109px ;
+    border-bottom:20px solid  ;
+    position: relative;
+    left: 100px;
+    top:60px;
+
+}
+.legs{
+    background-color: red;
+    width: 90px;
+    height:130px;
+    position: absolute;
+    top:430px;
+    left:25px;
+    border-right:20px solid black ;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    border-bottom: 20px solid black;
+}
+#leg1{
+    border-left: 20px solid black;
+}
+#leg2{
+    position: absolute;
+    left:325px;
+    top:515px; 
+    border-top-left-radius: 30%;
+}
+.Face{
+    background-color: lightblue;
+    width:230px;
+    height:150px;
+    position: absolute;
+    left:100px;
+    top:50px;
+    border:17px solid black;
+    border-top-right-radius: 80px;
+    border-top-left-radius:80px ;
+    border-bottom-left-radius:80px ;
+    border-bottom-right-radius: 80px;
+}
+.bag{
+    background-color: red;
+    width:70px;
+    height:253px;
+    
+    margin-left:30px;
+    margin-top:-290px ;
+    border:20px solid black;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius:50% ;
+}
